@@ -4,6 +4,7 @@
 
 - [Programming Background](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#programming-background)
 - [Résumé](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#r%C3%A9sum%C3%A9)
+- [Contact](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#contact)
 
 > "An API is only as useful as its documentation" -Me
 
@@ -79,6 +80,10 @@ I also work on [Copywriting and Creative Strategy](https://www.elliotkg.com/)
 
 I've taught tech and various other things
 - [SuperHi - Random Cursor Tutorial](https://youtu.be/BkpdwjppVVE)
+
+
+
+### Contact
 
 [Get in touch!](mailto:ElliotKGoldman@gmail.com)
 

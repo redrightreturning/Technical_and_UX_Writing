@@ -6,7 +6,7 @@
 - [Résumé](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#r%C3%A9sum%C3%A9)
 - [Contact](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#contact)
 
-> "An API is only as useful as its documentation" -Me
+> "An API is only as useful as its documentation" - Me
 
 ----
 ### Programming Background

@@ -44,7 +44,7 @@ func programmingExperience() -> (numOfYears: Int, languages: [String]){
     return (numYears, iHaveUsed)
 }
 let experience = programmingExperience()
-print("Elliot has \(experience.numOfYears) years programming experience in: \(experience.languages.dropLast().joined(separator: ", ")), and \(experience.languages.last!).")
+print("Elliot has \(experience.numOfYears) years programming experience using: \(experience.languages.dropLast().joined(separator: ", ")), and \(experience.languages.last!) at various times.")
 
 ```
 ```

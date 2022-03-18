@@ -48,7 +48,7 @@ print("Elliot has \(experience.numOfYears) years programming experience using: \
 
 ```
 ```
-Elliot has 12 years programming experience in: C, C++, Java, Javascript, Lua, Objective-C, Python, and Swift.
+Elliot has 12 years programming experience using: C, C++, Java, Javascript, Lua, Objective-C, Python, and Swift at various times.
 ```
 ----
 ### Résumé

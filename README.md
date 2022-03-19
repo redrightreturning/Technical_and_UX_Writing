@@ -22,6 +22,8 @@
 ----
 ### Programming Background ⚙️
 
+I have a past-life as a web and iOS developer. Documentation (or the lack thereof 🙃) is what led me to technical writing.
+
 ```swift
 // Written in Swift
 
@@ -101,15 +103,22 @@ Sarah Lawrence College I.T. : 2012-09, 2015-05
 ----
 ### What Else? 🌻
 
-I also work on ✨[Copywriting and Creative Strategy](https://www.elliotkg.com/)✨
+#### Honors & Awards 🥇
+- UI/UX for a web app that received honorable mention in the Data Design category of Fast Company’s 2020 Innovation by Design AwardsUI/UX for a web app that received honorable mention in the Data Design category of Fast Company’s 2020 Innovation by Design Awards
+Issued by Fast Company
+- UI/UX for a web app that won Greenhouse Grower's "Technology of the Year"UI/UX for a web app that won Greenhouse Grower's "Technology of the Year"
+Issued by Greenhouse Grower
+- UI/UX for a web app featured in CropLife's best agriculture apps for 2021
 
+
+#### I also work on ✨[Copywriting and Creative Strategy](https://www.elliotkg.com/)✨
+
+#### Teaching 🍎
 I've taught tech and various other things
 - [SuperHi – Random Cursor Tutorial](https://youtu.be/BkpdwjppVVE)
 - [Index – Animation Tasting Menu](https://index-space.org/products/animation-overview)[^2]
 
 [^2]:Sometimes I go by Elliot Keeler. Keeler is my middle name and my Great-Grandmother's maiden name.
-
-
 
 ### Contact 📧
 

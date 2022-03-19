@@ -104,6 +104,7 @@ Sarah Lawrence College I.T. : 2012-09, 2015-05
 
 ----
 ### Honors & Awards 🥇
+__Illumitex__
 - UI/UX for a web app that received honorable mention in the Data Design category of Fast Company’s 2020 Innovation by Design Awards
 - UI/UX for a web app that won Greenhouse Grower's "Technology of the Year"
 - UI/UX for a web app featured in CropLife's best agriculture apps for 2021
@@ -128,6 +129,4 @@ While not writing I'm usually: 🌲🏃🧗🍵🧋🎨🥁🎹🎵🌲
 📫 [Get in touch!](mailto:ElliotKGoldman@gmail.com)<br>
 💼 [LinkedIn](https://www.linkedin.com/in/elliot-k-goldman/)<br>
 🐦 [@HiElliotKeeler](https://twitter.com/hielliotkeeler)
-
-
 

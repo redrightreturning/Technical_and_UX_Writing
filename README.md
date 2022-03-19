@@ -3,9 +3,10 @@
 
 - [UX Writing](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#ux-writing-)
 - [Technical Writing](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#technical-writing-)
-- [Programming Background](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#programming-background)
-- [Résumé](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#r%C3%A9sum%C3%A9)
-- [Contact](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#contact)
+- [Programming Background](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#programming-background-%EF%B8%8F)
+- [Résumé](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#r%C3%A9sum%C3%A9-)
+- [What Else?](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#what-else-)
+- [Contact](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#contact-)
 
 ----
 ### UX Writing 📱
@@ -16,7 +17,7 @@
 [^1]: Elliot K. Goldman on March 18th, 2022
 
 #### Selected work
-[CSS Tricks – Comparing the Different Types of Native JavaScript Popups](Technical Writing/Comparing the Different Types of Native JavaScript Popups\ \|\ CSS-Tricks\ -\ CSS-Tricks.pdf)
+[CSS Tricks – Comparing the Different Types of Native JavaScript Popups](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups.pdf)
 
 ----
 ### Programming Background ⚙️
@@ -54,11 +55,11 @@ func programmingExperience() -> (numOfYears: Int, languages: [String]){
     return (numYears, iHaveUsed)
 }
 let experience = programmingExperience()
-print("Elliot has \(experience.numOfYears) years programming experience using: \(experience.languages.dropLast().joined(separator: ", ")), and \(experience.languages.last!) at various times.")
+print("Elliot has \(experience.numOfYears) years programming experience using: \(experience.languages.dropLast().joined(separator: ", ")), and \(experience.languages.last!) all at various times.")
 
 ```
 ```
-Elliot has 12 years programming experience using: C, C++, Java, Javascript, Lua, Objective-C, Python, and Swift at various times.
+Elliot has 12 years programming experience using: C, C++, Java, Javascript, Lua, Objective-C, Python, and Swift all at various times.
 ```
 ----
 ### Résumé 📰
@@ -75,7 +76,6 @@ Dash Labs Inc. : des4, 2015-09, 2016-03
 I.B.M. : des5, 2015-06, 3m
 Sarah Lawrence College I.T. : 2012-09, 2015-05
 ```
-
 - #### Elliot K. Goldman (March 2016 - Present)
   *Independent Strategist*
 	 - UX writing, technical writing, copywriting, design, and creative strategy
@@ -99,15 +99,23 @@ Sarah Lawrence College I.T. : 2012-09, 2015-05
 	 - Documentation, technical writing, design, promotional materials
 
 ----
+### What Else? 🌻
+
 I also work on ✨[Copywriting and Creative Strategy](https://www.elliotkg.com/)✨
 
-
 I've taught tech and various other things
-- [SuperHi - Random Cursor Tutorial](https://youtu.be/BkpdwjppVVE)
+- [SuperHi – Random Cursor Tutorial](https://youtu.be/BkpdwjppVVE)
+- [Index – Animation Tasting Menu](https://index-space.org/products/animation-overview)[^2]
+
+[^2]:Sometimes I go by Elliot Keeler. Keeler is my middle name and my Great-Grandmother's maiden name.
 
 
 
 ### Contact 📧
 
-[Get in touch!](mailto:ElliotKGoldman@gmail.com)
+📫 [Get in touch!](mailto:ElliotKGoldman@gmail.com)<br>
+💼 [LinkedIn](https://www.linkedin.com/in/elliot-k-goldman/)<br>
+🐦 [@HiElliotKeeler](https://twitter.com/hielliotkeeler)
+
+
 

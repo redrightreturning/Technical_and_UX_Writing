@@ -5,6 +5,8 @@
 - [Technical Writing](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#technical-writing-)
 - [Programming Background](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#programming-background-%EF%B8%8F)
 - [Résumé](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#r%C3%A9sum%C3%A9-)
+- [Honors & Awards](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#honors--awards-)
+- [Teaching](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#teaching-)
 - [What Else?](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#what-else-)
 - [Contact](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#contact-)
 
@@ -101,24 +103,24 @@ Sarah Lawrence College I.T. : 2012-09, 2015-05
 	 - Documentation, technical writing, design, promotional materials
 
 ----
-### What Else? 🌻
-
-#### Honors & Awards 🥇
-- UI/UX for a web app that received honorable mention in the Data Design category of Fast Company’s 2020 Innovation by Design AwardsUI/UX for a web app that received honorable mention in the Data Design category of Fast Company’s 2020 Innovation by Design Awards
-Issued by Fast Company
-- UI/UX for a web app that won Greenhouse Grower's "Technology of the Year"UI/UX for a web app that won Greenhouse Grower's "Technology of the Year"
-Issued by Greenhouse Grower
+### Honors & Awards 🥇
+- UI/UX for a web app that received honorable mention in the Data Design category of Fast Company’s 2020 Innovation by Design Awards
+- UI/UX for a web app that won Greenhouse Grower's "Technology of the Year"
 - UI/UX for a web app featured in CropLife's best agriculture apps for 2021
 
-
-#### I also work on ✨[Copywriting and Creative Strategy](https://www.elliotkg.com/)✨
-
-#### Teaching 🍎
+----
+### Teaching 🍎
 I've taught tech and various other things
 - [SuperHi – Random Cursor Tutorial](https://youtu.be/BkpdwjppVVE)
 - [Index – Animation Tasting Menu](https://index-space.org/products/animation-overview)[^2]
 
 [^2]:Sometimes I go by Elliot Keeler. Keeler is my middle name and my Great-Grandmother's maiden name.
+
+----
+### What Else? 🌻
+
+I also work on ✨[Copywriting and Creative Strategy](https://www.elliotkg.com/)✨
+
 
 ### Contact 📧
 

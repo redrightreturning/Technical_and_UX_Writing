@@ -1,8 +1,8 @@
 # Technical and UX Writing
 ## Elliot is a writer specializing in technical and UX writing ✍️
 
-- [UX Writing](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#ux-writing-)
 - [Technical Writing](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#technical-writing-)
+- [UX Writing](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#ux-writing-)
 - [Software](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#software-%EF%B8%8F)
 - [Programming Background](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#programming-background-%EF%B8%8F)
 - [Résumé](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#r%C3%A9sum%C3%A9-)
@@ -14,16 +14,6 @@
 🚩 Based in Providence, Rhode Island 🚩
 
 ----
-### UX Writing 📱
-> "Because 'Get in Touch,' 'Contact Us,' and 'Email Us ASAP' don't all mean the same thing" — Me[^1]
-[^1]: Elliot K. Goldman on March 18th, 2022
-
-
-
-[![A screenshot of the Illumitex mobile app](UX%20Writing/Illumitex_mobileApp_thumbnail.png)](UX%20Writing/Illumitex_mobileApp.png)
-[![A screenshot of the Illumitex web app](UX%20Writing/Illumitex_webApp_thumbnail.png)](UX%20Writing/Illumitex_webApp.png)
-
-----
 ### Technical Writing 💻
 > "An API is only as useful as its documentation" — Me[^2]
 [^2]: Elliot K. Goldman on March 18th, 2022
@@ -32,6 +22,23 @@
 [![CSS Tricks – Comparing the Different Types of Native JavaScript Popups](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups_thumbnail.png)](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups.pdf)
 [![A who's who in the Sarah Lawrence College I.T. Department](Technical%20Writing/SLCWho_descriptions_thumbnail.png)](Technical%20Writing/SLCWho_descriptions.png)
 [![How The Internet Works graphic showing how Sarah Lawrence College's 'MYSLC' website works](Technical%20Writing/HowMySLC_thumbnail.png)](Technical%20Writing/HowMySLC.png)
+
+----
+### UX Writing 📱
+> "Because 'Get in Touch,' 'Contact Us,' and 'Email Us ASAP' don't all mean the same thing" — Me[^1]
+[^1]: Elliot K. Goldman on March 18th, 2022
+
+```mermaid
+graph LR;
+    A(Front-end Developer) --> B(UI-UX Designer);
+    B --> C(UX Writer);
+```
+
+❇️ I specialize in small interactions that don't just bring clarity, but delight the user. ❇️
+
+[![A screenshot of the Illumitex mobile app](UX%20Writing/Illumitex_mobileApp_thumbnail.png)](UX%20Writing/Illumitex_mobileApp.png)
+[![A screenshot of the Illumitex web app](UX%20Writing/Illumitex_webApp_thumbnail.png)](UX%20Writing/Illumitex_webApp.png)
+
 
 ### Software 🛠️
 |  Adobe Creative Suite           |   Sketch   |  Figma |

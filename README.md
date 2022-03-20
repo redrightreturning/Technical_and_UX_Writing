@@ -22,9 +22,7 @@
 
 
 [![CSS Tricks – Comparing the Different Types of Native JavaScript Popups](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups_thumbnail.png)](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups.pdf)
-
 [![A who's who in the Sarah Lawrence College I.T. Department](Technical%20Writing/SLCWho_descriptions_thumbnail.png)](Technical%20Writing/SLCWho_descriptions.png)
-
 [![How The Internet Works graphic showing how Sarah Lawrence College's 'MYSLC' website works](Technical%20Writing/HowMySLC_thumbnail.png)](Technical%20Writing/HowMySLC.png)
 
 ----
@@ -128,7 +126,7 @@ I've taught tech and various other things
 
 I also work on ✨[Copywriting & Creative Strategy](https://www.elliotkg.com/)✨ as well as ◻️[Illustration & Design](https://dribbble.com/ElliotKG)◼️
 
-While not writing I'm usually: 🌲🏃🧗🍵🧋🎨🥁🎹🎵🌲
+While not writing I'm usually: 🌲🏃🧗🍵🧋🎨🥁🎹🎵🪡🧶🌲
 
 ### Contact 📧
 

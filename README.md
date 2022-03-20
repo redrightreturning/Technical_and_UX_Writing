@@ -12,11 +12,15 @@
 
 ----
 ### UX Writing 📱
+> "Because 'Get in Touch,' 'Contact Us,' and 'Email Us ASAP' don't all mean the same thing" — Me[^1]
+[^1]: Elliot K. Goldman on March 18th, 2022
 
 ----
 ### Technical Writing 💻
-> "An API is only as useful as its documentation" — Me[^1]
-[^1]: Elliot K. Goldman on March 18th, 2022
+> "An API is only as useful as its documentation" — Me[^2]
+[^2]: Elliot K. Goldman on March 18th, 2022
+
+
 
 #### Selected work
 [CSS Tricks – Comparing the Different Types of Native JavaScript Popups](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups.pdf)
@@ -59,11 +63,11 @@ func programmingExperience() -> (numOfYears: Int, languages: [String]){
     return (numYears, iHaveUsed)
 }
 let experience = programmingExperience()
-print("Elliot has \(experience.numOfYears) years programming experience using: \(experience.languages.dropLast().joined(separator: ", ")), and \(experience.languages.last!) all at various times.")
+print("Elliot has \(experience.numOfYears) years programming experience using at various times: \(experience.languages.dropLast().joined(separator: ", ")), and \(experience.languages.last!) all at various times.")
 
 ```
 ```
-Elliot has 12 years programming experience using: C, C++, Java, Javascript, Lua, Objective-C, Python, and Swift all at various times.
+Elliot has 12 years programming experience using at various times: C, C++, Java, Javascript, Lua, Objective-C, Python, and Swift.
 ```
 ----
 ### Résumé 📰
@@ -113,9 +117,9 @@ __Illumitex__
 ### Teaching 🍎
 I've taught tech and various other things
 - [SuperHi – Random Cursor Tutorial](https://youtu.be/BkpdwjppVVE)
-- [Index – Animation Tasting Menu](https://index-space.org/products/animation-overview)[^2]
+- [Index – Animation Tasting Menu](https://index-space.org/products/animation-overview)[^3]
 
-[^2]:Sometimes I go by Elliot Keeler. Keeler is my middle name and my Great-Grandmother's maiden name.
+[^3]:Sometimes I go by Elliot Keeler. Keeler is my middle name and my Great-Grandmother's maiden name.
 
 ----
 ### What Else? 🌻

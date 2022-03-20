@@ -15,6 +15,9 @@
 > "Because 'Get in Touch,' 'Contact Us,' and 'Email Us ASAP' don't all mean the same thing" — Me[^1]
 [^1]: Elliot K. Goldman on March 18th, 2022
 
+[![A screenshot of the Illumitex mobile app](UX%20Writing/Illumitex_mobileApp_thumbnail.png)](UX%20Writing/Illumitex_mobileApp.png)
+[![A screenshot of the Illumitex web app](UX%20Writing/Illumitex_webApp_thumbnail.png)](UX%20Writing/Illumitex_webApp.png)
+
 ----
 ### Technical Writing 💻
 > "An API is only as useful as its documentation" — Me[^2]

@@ -21,9 +21,11 @@
 [^2]: Elliot K. Goldman on March 18th, 2022
 
 
+[![CSS Tricks – Comparing the Different Types of Native JavaScript Popups](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups_thumbnail.png)](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups.pdf)
 
-#### Selected work
-[CSS Tricks – Comparing the Different Types of Native JavaScript Popups](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups.pdf)
+[![A who's who in the Sarah Lawrence College I.T. Department](Technical%20Writing/SLCWho_descriptions_thumbnail.png)](Technical%20Writing/SLCWho_descriptions.png)
+
+[![How The Internet Works graphic showing how Sarah Lawrence College's 'MYSLC' website works](Technical%20Writing/HowMySLC_thumbnail.png)](Technical%20Writing/HowMySLC.png)
 
 ----
 ### Programming Background ⚙️
@@ -86,7 +88,7 @@ Sarah Lawrence College I.T. : 2012-09, 2015-05
 ```
 - #### Elliot K. Goldman (March 2016 - Present)
   *Independent Strategist*
-	 - UX writing, technical writing, copywriting, design, and creative strategy
+	 - Technical writing, UX writing, UI/UX design, copywriting, design, and creative strategy
 
 - #### Illumitex (March 2019 - December 2020)
   *UI/UX designer/developer [long-term contract]*

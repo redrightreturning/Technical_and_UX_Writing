@@ -126,7 +126,7 @@ I've taught tech and various other things
 
 I also work on ✨[Copywriting & Creative Strategy](https://www.elliotkg.com/)✨ as well as ◻️[Illustration & Design](https://dribbble.com/ElliotKG)◼️
 
-While not writing I'm usually: 🌲🏃🧗🍵🧋🎨🥁🎹🎵🌲
+While not writing I'm usually: 🌲🏃🧗🍵🧋🎨🥁🎹🎵🪡🧶🌲
 
 ### Contact 📧
 

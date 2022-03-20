@@ -3,6 +3,7 @@
 
 - [UX Writing](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#ux-writing-)
 - [Technical Writing](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#technical-writing-)
+- [Software](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#software-%EF%B8%8F)
 - [Programming Background](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#programming-background-%EF%B8%8F)
 - [Résumé](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#r%C3%A9sum%C3%A9-)
 - [Honors & Awards](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#honors--awards-)
@@ -10,10 +11,14 @@
 - [What Else?](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#what-else-)
 - [Contact](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#contact-)
 
+🚩 Based in Providence, Rhode Island 🚩
+
 ----
 ### UX Writing 📱
 > "Because 'Get in Touch,' 'Contact Us,' and 'Email Us ASAP' don't all mean the same thing" — Me[^1]
 [^1]: Elliot K. Goldman on March 18th, 2022
+
+
 
 [![A screenshot of the Illumitex mobile app](UX%20Writing/Illumitex_mobileApp_thumbnail.png)](UX%20Writing/Illumitex_mobileApp.png)
 [![A screenshot of the Illumitex web app](UX%20Writing/Illumitex_webApp_thumbnail.png)](UX%20Writing/Illumitex_webApp.png)
@@ -27,6 +32,11 @@
 [![CSS Tricks – Comparing the Different Types of Native JavaScript Popups](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups_thumbnail.png)](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups.pdf)
 [![A who's who in the Sarah Lawrence College I.T. Department](Technical%20Writing/SLCWho_descriptions_thumbnail.png)](Technical%20Writing/SLCWho_descriptions.png)
 [![How The Internet Works graphic showing how Sarah Lawrence College's 'MYSLC' website works](Technical%20Writing/HowMySLC_thumbnail.png)](Technical%20Writing/HowMySLC.png)
+
+### Software 🛠️
+|  Adobe Creative Suite           |   Sketch   |  Figma |
+|---------------------------------|------------|--------|
+|__Microsoft/Google Office Suite__|__Markdown__|__Zoom__|
 
 ----
 ### Programming Background ⚙️
@@ -109,6 +119,8 @@ Sarah Lawrence College I.T. : 2012-09, 2015-05
   *Web Services Graphics Assistant*
 	 - Documentation, technical writing, design, promotional materials
 
+⬇️📰 [pdf résumé](ElliotKGoldman_Resume_22.pdf) ⬇️📰 
+
 ----
 ### Honors & Awards 🥇
 __Illumitex__
@@ -121,6 +133,7 @@ __Illumitex__
 I've taught tech and various other things
 - [SuperHi – Random Cursor Tutorial](https://youtu.be/BkpdwjppVVE)
 - [Index – Animation Tasting Menu](https://index-space.org/products/animation-overview)[^3]
+- In-person development tutoring
 
 [^3]:Sometimes I go by Elliot Keeler. Keeler is my middle name and my Great-Grandmother's maiden name.
 

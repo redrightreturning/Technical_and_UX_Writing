@@ -5,16 +5,22 @@
 - [Technical Writing](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#technical-writing-)
 - [Programming Background](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#programming-background-%EF%B8%8F)
 - [Résumé](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#r%C3%A9sum%C3%A9-)
+- [Honors & Awards](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#honors--awards-)
+- [Teaching](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#teaching-)
 - [What Else?](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#what-else-)
 - [Contact](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#contact-)
 
 ----
 ### UX Writing 📱
+> "Because 'Get in Touch,' 'Contact Us,' and 'Email Us ASAP' don't all mean the same thing" — Me[^1]
+[^1]: Elliot K. Goldman on March 18th, 2022
 
 ----
 ### Technical Writing 💻
-> "An API is only as useful as its documentation" — Me[^1]
-[^1]: Elliot K. Goldman on March 18th, 2022
+> "An API is only as useful as its documentation" — Me[^2]
+[^2]: Elliot K. Goldman on March 18th, 2022
+
+
 
 #### Selected work
 [CSS Tricks – Comparing the Different Types of Native JavaScript Popups](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups.pdf)
@@ -57,11 +63,11 @@ func programmingExperience() -> (numOfYears: Int, languages: [String]){
     return (numYears, iHaveUsed)
 }
 let experience = programmingExperience()
-print("Elliot has \(experience.numOfYears) years programming experience using: \(experience.languages.dropLast().joined(separator: ", ")), and \(experience.languages.last!) all at various times.")
+print("Elliot has \(experience.numOfYears) years programming experience using at various times: \(experience.languages.dropLast().joined(separator: ", ")), and \(experience.languages.last!) all at various times.")
 
 ```
 ```
-Elliot has 12 years programming experience using: C, C++, Java, Javascript, Lua, Objective-C, Python, and Swift all at various times.
+Elliot has 12 years programming experience using at various times: C, C++, Java, Javascript, Lua, Objective-C, Python, and Swift.
 ```
 ----
 ### Résumé 📰
@@ -101,30 +107,30 @@ Sarah Lawrence College I.T. : 2012-09, 2015-05
 	 - Documentation, technical writing, design, promotional materials
 
 ----
-### What Else? 🌻
-
-#### Honors & Awards 🥇
-- UI/UX for a web app that received honorable mention in the Data Design category of Fast Company’s 2020 Innovation by Design AwardsUI/UX for a web app that received honorable mention in the Data Design category of Fast Company’s 2020 Innovation by Design Awards
-Issued by Fast Company
-- UI/UX for a web app that won Greenhouse Grower's "Technology of the Year"UI/UX for a web app that won Greenhouse Grower's "Technology of the Year"
-Issued by Greenhouse Grower
+### Honors & Awards 🥇
+__Illumitex__
+- UI/UX for a web app that received honorable mention in the Data Design category of Fast Company’s 2020 Innovation by Design Awards
+- UI/UX for a web app that won Greenhouse Grower's "Technology of the Year"
 - UI/UX for a web app featured in CropLife's best agriculture apps for 2021
 
-
-#### I also work on ✨[Copywriting and Creative Strategy](https://www.elliotkg.com/)✨
-
-#### Teaching 🍎
+----
+### Teaching 🍎
 I've taught tech and various other things
 - [SuperHi – Random Cursor Tutorial](https://youtu.be/BkpdwjppVVE)
-- [Index – Animation Tasting Menu](https://index-space.org/products/animation-overview)[^2]
+- [Index – Animation Tasting Menu](https://index-space.org/products/animation-overview)[^3]
 
-[^2]:Sometimes I go by Elliot Keeler. Keeler is my middle name and my Great-Grandmother's maiden name.
+[^3]:Sometimes I go by Elliot Keeler. Keeler is my middle name and my Great-Grandmother's maiden name.
+
+----
+### What Else? 🌻
+
+I also work on ✨[Copywriting & Creative Strategy](https://www.elliotkg.com/)✨ as well as ◻️[Illustration & Design](https://dribbble.com/ElliotKG)◼️
+
+While not writing I'm usually: 🌲🏃🧗🍵🧋🎨🥁🎹🎵🌲
 
 ### Contact 📧
 
 📫 [Get in touch!](mailto:ElliotKGoldman@gmail.com)<br>
 💼 [LinkedIn](https://www.linkedin.com/in/elliot-k-goldman/)<br>
 🐦 [@HiElliotKeeler](https://twitter.com/hielliotkeeler)
-
-
 

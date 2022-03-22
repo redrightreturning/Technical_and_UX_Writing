@@ -18,16 +18,21 @@
 > "An API is only as useful as its documentation" — Me[^2]
 [^2]: Elliot K. Goldman on March 18th, 2022
 
+I started technical writing at the beginning of my career with a firm belief that everyone can code. Through: teaching, API documentation, product documentation, and general research and technical research, I have experience with a wide myriad of practices.
 
-[![CSS Tricks – Comparing the Different Types of Native JavaScript Popups](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups_thumbnail.png)](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups.pdf)
-[![A who's who in the Sarah Lawrence College I.T. Department](Technical%20Writing/SLCWho_descriptions_thumbnail.png)](Technical%20Writing/SLCWho_descriptions.png)
-[![How The Internet Works graphic showing how Sarah Lawrence College's 'MYSLC' website works](Technical%20Writing/HowMySLC_thumbnail.png)](Technical%20Writing/HowMySLC.png)
+_A small selection of writing:_
+- An article written for [CSS Tricks](https://css-tricks.com/) [Comparing the Different Types of Native JavaScript Popups](https://css-tricks.com/comparing-the-different-types-of-native-javascript-popups/) 
+  - [![CSS Tricks – Comparing the Different Types of Native JavaScript Popups](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups_thumbnail.png)](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups.pdf)
+- Technical and marketing materials for [Sarah Lawrence College](https://www.sarahlawrence.edu/)'s I.T. department ([MYSLC](https://my.slc.edu/ics))
+  - [![A who's who in the Sarah Lawrence College I.T. Department](Technical%20Writing/SLCWho_descriptions_thumbnail.png)](Technical%20Writing/SLCWho_descriptions.png)
+  - [![How The Internet Works graphic showing how Sarah Lawrence College's 'MYSLC' website works](Technical%20Writing/HowMySLC_thumbnail.png)](Technical%20Writing/HowMySLC.png)
 
 ----
 ### UX Writing 📱
 > "Because 'Get in Touch,' 'Contact Us,' and 'Email Us ASAP' don't all mean the same thing" — Me[^1]
 [^1]: Elliot K. Goldman on March 18th, 2022
 
+_My path to UX Writing_
 ```mermaid
 graph LR;
     A(Front-end Developer) --> B(UI-UX Designer);
@@ -36,9 +41,12 @@ graph LR;
 
 ❇️ I specialize in small interactions that don't just bring clarity, but delight the user. ❇️
 
+_A small selection of UX design/writing:_
+
 [![A screenshot of the Illumitex mobile app](UX%20Writing/Illumitex_mobileApp_thumbnail.png)](UX%20Writing/Illumitex_mobileApp.png)
 [![A screenshot of the Illumitex web app](UX%20Writing/Illumitex_webApp_thumbnail.png)](UX%20Writing/Illumitex_webApp.png)
 
+an [award winning](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#honors--awards-) app and webapp while working on FarmvisionAI at (now defunct) [Illumitex](https://www.linkedin.com/company/illumitex/)
 
 ### Software 🛠️
 |  Adobe Creative Suite           |   Sketch   |  Figma |

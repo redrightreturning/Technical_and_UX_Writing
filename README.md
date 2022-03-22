@@ -1,8 +1,9 @@
 # Technical and UX Writing
 ## Elliot is a writer specializing in technical and UX writing ✍️
 
-- [UX Writing](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#ux-writing-)
 - [Technical Writing](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#technical-writing-)
+- [UX Writing](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#ux-writing-)
+- [Software](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#software-%EF%B8%8F)
 - [Programming Background](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#programming-background-%EF%B8%8F)
 - [Résumé](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#r%C3%A9sum%C3%A9-)
 - [Honors & Awards](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#honors--awards-)
@@ -10,28 +11,52 @@
 - [What Else?](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#what-else-)
 - [Contact](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#contact-)
 
-----
-### UX Writing 📱
-> "Because 'Get in Touch,' 'Contact Us,' and 'Email Us ASAP' don't all mean the same thing" — Me[^1]
-[^1]: Elliot K. Goldman on March 18th, 2022
-
-[![A screenshot of the Illumitex mobile app](UX%20Writing/Illumitex_mobileApp_thumbnail.png)](UX%20Writing/Illumitex_mobileApp.png)
-[![A screenshot of the Illumitex web app](UX%20Writing/Illumitex_webApp_thumbnail.png)](UX%20Writing/Illumitex_webApp.png)
+🚩 Based in Providence, Rhode Island 🚩
 
 ----
 ### Technical Writing 💻
 > "An API is only as useful as its documentation" — Me[^2]
 [^2]: Elliot K. Goldman on March 18th, 2022
 
+I started technical writing at the beginning of my career with a firm belief that everyone can code. Through teaching, API documentation, product documentation, and general research and technical research, I have experience with a wide myriad of practices.
 
-[![CSS Tricks – Comparing the Different Types of Native JavaScript Popups](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups_thumbnail.png)](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups.pdf)
-[![A who's who in the Sarah Lawrence College I.T. Department](Technical%20Writing/SLCWho_descriptions_thumbnail.png)](Technical%20Writing/SLCWho_descriptions.png)
-[![How The Internet Works graphic showing how Sarah Lawrence College's 'MYSLC' website works](Technical%20Writing/HowMySLC_thumbnail.png)](Technical%20Writing/HowMySLC.png)
+_A small selection of writing:_
+- An article written for CSS Tricks [Comparing the Different Types of Native JavaScript Popups](https://css-tricks.com/comparing-the-different-types-of-native-javascript-popups/) 
+  - [![CSS Tricks – Comparing the Different Types of Native JavaScript Popups](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups_thumbnail.png)](Technical%20Writing/Comparing%20the%20Different%20Types%20of%20Native%20JavaScript%20Popups.pdf)
+- Technical and marketing materials for [Sarah Lawrence College](https://www.sarahlawrence.edu/)'s I.T. department ([MYSLC](https://my.slc.edu/ics))
+  - [![A who's who in the Sarah Lawrence College I.T. Department](Technical%20Writing/SLCWho_descriptions_thumbnail.png)](Technical%20Writing/SLCWho_descriptions.png)
+  - [![How The Internet Works graphic showing how Sarah Lawrence College's 'MYSLC' website works](Technical%20Writing/HowMySLC_thumbnail.png)](Technical%20Writing/HowMySLC.png)
+
+----
+### UX Writing 📱
+> "Because 'Get in Touch,' 'Contact Us,' and 'Email Us ASAP' don't all mean the same thing" — Me[^1]
+[^1]: Elliot K. Goldman on March 18th, 2022
+
+_My path to UX Writing_
+```mermaid
+graph LR;
+    A(Front-end Developer) --> B(UI-UX Designer);
+    B --> C(UX Writer);
+```
+
+❇️ I specialize in small interactions that don't just bring clarity, but delight the user. ❇️
+
+_A small selection of UX design/writing:_
+
+[![A screenshot of the Illumitex mobile app](UX%20Writing/Illumitex_mobileApp_thumbnail.png)](UX%20Writing/Illumitex_mobileApp.png)
+[![A screenshot of the Illumitex web app](UX%20Writing/Illumitex_webApp_thumbnail.png)](UX%20Writing/Illumitex_webApp.png)
+
+An [award-winning](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#honors--awards-) agricultural tech app and web app while working on FarmvisionAI at (now defunct) [Illumitex](https://www.linkedin.com/company/illumitex/)
+
+### Software 🛠️
+|  Adobe Creative Suite           |   Sketch   |  Figma |
+|---------------------------------|------------|--------|
+|__Microsoft/Google Office Suite__|__Markdown__|__Zoom__|
 
 ----
 ### Programming Background ⚙️
 
-I have a past-life as a web and iOS developer. Documentation (or the lack thereof 🙃) is what led me to technical writing.
+I have a past life as a web and iOS developer. Documentation (or the lack thereof 🙃) is what led me to technical writing.
 
 ```swift
 // Written in Swift
@@ -109,6 +134,8 @@ Sarah Lawrence College I.T. : 2012-09, 2015-05
   *Web Services Graphics Assistant*
 	 - Documentation, technical writing, design, promotional materials
 
+⬇️📰 [pdf résumé](ElliotKGoldman_Resume_22.pdf) ⬇️📰 
+
 ----
 ### Honors & Awards 🥇
 __Illumitex__
@@ -121,6 +148,7 @@ __Illumitex__
 I've taught tech and various other things
 - [SuperHi – Random Cursor Tutorial](https://youtu.be/BkpdwjppVVE)
 - [Index – Animation Tasting Menu](https://index-space.org/products/animation-overview)[^3]
+- In-person development tutoring
 
 [^3]:Sometimes I go by Elliot Keeler. Keeler is my middle name and my Great-Grandmother's maiden name.
 

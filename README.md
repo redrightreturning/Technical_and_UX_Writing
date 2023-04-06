@@ -1,12 +1,9 @@
-# Technical and UX Writing
-## Elliot is a writer specializing in technical and UX writing ✍️
+# Technical and UX Writing ✍️
 
 - [Technical Writing](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#technical-writing-)
 - [UX Writing](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#ux-writing-)
 - [Software](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#software-%EF%B8%8F)
 - [Programming Background](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#programming-background-%EF%B8%8F)
-- [Résumé](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#r%C3%A9sum%C3%A9-)
-- [Honors & Awards](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#honors--awards-)
 - [Teaching](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#teaching-)
 - [What Else?](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#what-else-)
 - [Contact](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/main/README.md#contact-)
@@ -56,7 +53,7 @@ An [award-winning](https://github.com/Elliot-KG/Technical_and_UX_Writing/edit/ma
 ----
 ### Programming Background ⚙️
 
-I have a past life as a web and iOS developer. Documentation (or the lack thereof 🙃) is what led me to technical writing.
+Documentation (or the lack thereof 🙃) is what led me to technical writing.
 
 ```swift
 // Written in Swift
@@ -97,52 +94,6 @@ print("Elliot has \(experience.numOfYears) years programming experience using at
 ```
 Elliot has 12 years programming experience using at various times: C, C++, Java, Javascript, Lua, Objective-C, Python, and Swift.
 ```
-----
-### Résumé 📰
-
-```mermaid
-gantt
-dateFormat  YYYY-MM
-title My work history
-
-Independent Strategist : des1, 2016-03, 2022-05
-Illumitex : des2, 2019-03, 2020-12
-Audio Drops : des3, 2019-01, 2019-04
-Dash Labs Inc. : des4, 2015-09, 2016-03
-I.B.M. : des5, 2015-06, 3m
-Sarah Lawrence College I.T. : 2012-09, 2015-05
-```
-- #### Elliot K. Goldman (March 2016 - Present)
-  *Independent Strategist*
-	 - Technical writing, UX writing, UI/UX design, copywriting, design, and creative strategy
-
-- #### Illumitex (March 2019 - December 2020)
-  *UI/UX designer/developer [long-term contract]*
-	 - UI/UX for award winning web app
-
-- #### Audio Drops (January 2019 - April 2019)
-  *iPhone Developer [long-term contract]*
-	 - built social music app utilizing mobile phone AR 
-
-- #### Dash Labs Inc. (September 2015 - March 2016)
-  *Lead iOS Developer*
-
-- #### I.B.M. (Summer 2015)
-  *iOS Mobile Developer [Internship]*
-
-- #### Sarah Lawrence College I.T.  (2012-2015)
-  *Web Services Graphics Assistant*
-	 - Documentation, technical writing, design, promotional materials
-
-⬇️📰 [pdf résumé](ElliotKGoldman_Resume_22.pdf) ⬇️📰 
-
-----
-### Honors & Awards 🥇
-__Illumitex__
-- UI/UX for a web app that received honorable mention in the Data Design category of Fast Company’s 2020 Innovation by Design Awards
-- UI/UX for a web app that won Greenhouse Grower's "Technology of the Year"
-- UI/UX for a web app featured in CropLife's best agriculture apps for 2021
-
 ----
 ### Teaching 🍎
 I've taught tech and various other things
